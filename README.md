@@ -11,11 +11,11 @@ Required modules:
     pip install pycaw
 ```
 ## SMC Configuration
-![Comunicaton with URsim](https://github.com/NavierMillennium/modbusTCP_hand_tracking/tree/master/screeenshots/smc_view.png?raw=true)
+![SMC_configuration](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screeenshots/smc_view.png?raw=true)
 
-![Comunicaton with URsim - IO](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/smc_device_group.png?raw=true)
+![SMC_configuration-device](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/smc_device_group.png?raw=true)
 
-![Calibration process](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/smc_items.png?raw=true)
+![SMC_configuration-items](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/smc_items.png?raw=true)
 
 ## Examples
 * **Output image** 
