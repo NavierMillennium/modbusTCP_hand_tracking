@@ -13,9 +13,9 @@ Required modules:
 ## SMC Configuration
 ![SMC_configuration](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screeenshots/smc_view.png?raw=true)
 
-![SMC_configuration-device](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/smc_device_group.png?raw=true)
+![SMC_configuration-device](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screeenshots/smc_device_group.png?raw=true)
 
-![SMC_configuration-items](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/smc_items.png?raw=true)
+![SMC_configuration-items](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screeenshots/smc_items.png?raw=true)
 
 ## Examples
 * **Output image** 
