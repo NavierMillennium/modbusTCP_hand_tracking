@@ -18,9 +18,9 @@ Required modules:
 ![SMC_configuration-items](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screeenshots/smc_items.png?raw=true)
 
 ## Examples
-* **Output image** 
+**Output image** 
 
-![Image with markers](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screenshots/hand_tracking.png?raw=true)
+![Image with markers](https://github.com/NavierMillennium/modbusTCP_hand_tracking/blob/master/screeenshots/hand_tracking.png?raw=true)
 
 ## Links
 * [Venv – creation of virtual environment ][1]
